@@ -1,2 +1,4 @@
 Nombre de los compañeros
-luis 
+Carlos De La Huerga Cenador
+Victor Gonzalez Blanco
+Andre Pires
