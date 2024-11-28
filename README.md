@@ -35,6 +35,10 @@ Por otra parte, tenemos la grafica de los commits hechos por cada uno en la grfi
 
 ![image](https://github.com/user-attachments/assets/544dcaa4-175c-4fbd-bdb9-8176f74cb3b1)
 
+## Captura con la relacion de las PRQs relaizadas cerradas
+Aqui se pueden ver las pull requests realizadas, las cuales ya se encuetran todas cerrada como se puede aprecia.
 
+![image](https://github.com/user-attachments/assets/b87bb06a-99e8-4261-8787-53d8e0b49191)
+ 
 
 
