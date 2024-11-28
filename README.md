@@ -25,3 +25,16 @@ GNU General Public License for more details.
 
 
 ## Trabajo GesPro
+
+## Gráfico obtenido con una captura de pantalla con la lista de commits del repositorio:
+Primeramente vemos el grafico de los commits donde podemos apreciar la fecha que se hicieron y la cantidad de estos
+
+![image](https://github.com/user-attachments/assets/4d790219-91bf-434a-95d6-56f62ae66f89)
+
+Por otra parte, tenemos la grafica de los commits hechos por cada uno en la grfica naranja que se muestra en la imagen, junto con las pull request que se han abierto cerrado
+
+![image](https://github.com/user-attachments/assets/544dcaa4-175c-4fbd-bdb9-8176f74cb3b1)
+
+
+
+
