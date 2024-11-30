@@ -26,6 +26,37 @@ GNU General Public License for more details.
 
 ## Trabajo GesPro
 
+## Guía de cómo se realiza toda la secuencia de acciones desde que nos posicionamos en un nuevo commit del repositorio Go Bees hasta que pasa a estar visible en nuestra rama master local.
+
+1. Abrir el repositorio Go Bees en GitKraken
+
+- Inicia GitKraken y selecciona el repositorio Go Bees.
+- Localiza el commit en el que deseas posicionarte en el gráfico de commits.
+- 
+2. Realizar un hard reset en la rama master al commit seleccionado
+
+- Haz clic derecho en el commit deseado.
+- Selecciona la opción Reset branch to this commit.
+- Cuando se te pregunte, elige la opción Hard Reset.
+
+¿Por qué usar un hard reset?
+
+Un hard reset mueve la referencia de la rama master al commit especificado y sincroniza el contenido del directorio de trabajo y el índice con ese commit. 
+
+3. Actualizar la carpeta en el sistema de archivos
+
+- Accede a tu directorio local donde está ubicado el repositorio Go Bees.
+- Copia todo el contenido del repositorio y reemplázalo en la carpeta correspondiente dentro 
+  del directorio de tu proyecto GESPRO_Practica_3_Curso_2024_2025.
+
+4. Volver a GitKraken para sincronizar los cambios
+
+- Regresa a GitKraken y verifica que el repositorio Go Bees esté actualizado con el estado del 
+  commit en la rama master.
+- Desde la rama master, realiza un Fetch para obtener actualizaciones remotas.
+- Luego, ejecuta un Pull para sincronizar la rama master local con la remota, incorporando 
+  cualquier cambio adicional que no estuviera presente.
+
 ## Gráfico obtenido con una captura de pantalla con la lista de commits del repositorio:
 Primeramente vemos el grafico de los commits donde podemos apreciar la fecha que se hicieron y la cantidad de estos
 
@@ -50,6 +81,13 @@ Por otra parte, tenemos la grafica de los commits hechos por cada uno en la grfi
 <img width="1470" alt="image" src="https://github.com/user-attachments/assets/a33401ef-3f28-4881-89bb-484769a7f349">
 
 En esta captura podemos observar un resumen semanal de actividad en el repo de GitHub (22-29 de noviembre de 2024). Se destacan 8 pull requests y 8 issues activos, con 8 pull requests fusionados y 8 issues cerrados. Participamos 3 autores con 11 commits, afectando 408 archivos, con 114,182 adiciones y 185 eliminaciones.
+
+## La información del proyecto de Github obtenida desde la opción de menú "Insights→Code frecuency"
+
+![image](https://github.com/user-attachments/assets/4e6b63a9-e4ba-4040-aebf-2b02a132d072)
+
+Este gráfico muestra las adiciones y eliminaciones de líneas de código del repo de GitHub durante un periodo de tiempo. Podemos observar un crecimiento significativo de las adiciones de líneas de código, lo que refleja una fase activa de implementación y dessarrollo. Las eliminaciones de código han sido mínimas, lo que sugiere equilibrar este crecimiento con revisiones para asegurar la calidad y sostenibilidad.
+
 
 ## Captura con la relacion de las PRQs relaizadas cerradas
 Aqui se pueden ver las pull requests realizadas, las cuales ya se encuetran todas cerrada como se puede aprecia.
