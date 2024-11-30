@@ -35,6 +35,22 @@ Por otra parte, tenemos la grafica de los commits hechos por cada uno en la grfi
 
 ![image](https://github.com/user-attachments/assets/544dcaa4-175c-4fbd-bdb9-8176f74cb3b1)
 
+## Capturas de commits
+
+### Captura de pantalla del primer commit
+
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/78ddee34-e47d-4063-a71a-d160917e61e0">
+
+### Captura de pantalla del último commit antes de las actualizaciones del readme
+
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/eb1e059e-f2d4-4e9b-9fa9-0c58f72f144b">
+
+## La información del proyecto de Github obtenida desde la opción de menú "Insights→Pulse"
+
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/a33401ef-3f28-4881-89bb-484769a7f349">
+
+En esta captura podemos observar un resumen semanal de actividad en el repo de GitHub (22-29 de noviembre de 2024). Se destacan 8 pull requests y 8 issues activos, con 8 pull requests fusionados y 8 issues cerrados. Participamos 3 autores con 11 commits, afectando 408 archivos, con 114,182 adiciones y 185 eliminaciones.
+
 ## Captura con la relacion de las PRQs relaizadas cerradas
 Aqui se pueden ver las pull requests realizadas, las cuales ya se encuetran todas cerrada como se puede aprecia.
 
