@@ -31,12 +31,15 @@ GNU General Public License for more details.
 1. Abrir el repositorio Go Bees en GitKraken
 
 - Inicia GitKraken y selecciona el repositorio Go Bees.
+  
 - Localiza el commit en el que deseas posicionarte en el gráfico de commits.
-- 
+
 2. Realizar un hard reset en la rama master al commit seleccionado
 
 - Haz clic derecho en el commit deseado.
+  
 - Selecciona la opción Reset branch to this commit.
+  
 - Cuando se te pregunte, elige la opción Hard Reset.
 
 ¿Por qué usar un hard reset?
@@ -46,14 +49,17 @@ Un hard reset mueve la referencia de la rama master al commit especificado y sin
 3. Actualizar la carpeta en el sistema de archivos
 
 - Accede a tu directorio local donde está ubicado el repositorio Go Bees.
+  
 - Copia todo el contenido del repositorio y reemplázalo en la carpeta correspondiente dentro 
   del directorio de tu proyecto GESPRO_Practica_3_Curso_2024_2025.
 
 4. Volver a GitKraken para sincronizar los cambios
 
-- Regresa a GitKraken y verifica que el repositorio Go Bees esté actualizado con el estado del 
-  commit en la rama master.
+- Regresa a GitKraken y verifica que el repositorio Go Bees esté actualizado con el estado 
+  del commit en la rama master.
+  
 - Desde la rama master, realiza un Fetch para obtener actualizaciones remotas.
+  
 - Luego, ejecuta un Pull para sincronizar la rama master local con la remota, incorporando 
   cualquier cambio adicional que no estuviera presente.
 
